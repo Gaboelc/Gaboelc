@@ -7,7 +7,7 @@
       "Linkedin" : "https://www.linkedin.com/in/gaboelc",
       "Phone number" : (+506) 8630 3958,
       "Email" : "gabrielleon917@gmail.com",
-      "CV" : "
+      "CV" : "https://drive.google.com/file/d/1RAHWhkXFLRAZShtoiPBztKG4-QxNeWvl/view?usp=sharing"
      }
  }
 ```
@@ -100,6 +100,6 @@
   <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino">
 
   <img src="https://img.shields.io/badge/Adafruit-black?style=for-the-badge&logo=Adafruit">
-  
+
   <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=Raspberry%20Pi">
 </p>
