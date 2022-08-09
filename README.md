@@ -70,9 +70,12 @@
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-black?style=for-the-badge&logo=Visual Studio Code">
   <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter">
 </p>
 
-<!-- ### <a href="https://www.linkedin.com/in/gaboelc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaboelc" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/gaboelc" target="_blank">Gaboelc</a> -->
+<div align="center">
+  <a href="https://open.spotify.com/user/gabrielleon917">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
