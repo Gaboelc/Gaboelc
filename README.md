@@ -1,7 +1,7 @@
 ```shell
  { “name” : "Gabriel León Castro”,
    "AKA"  : "Gaboelc",
-   “role” : “Data Analist”,
+   “role” : “Data Analyst”,
    “data” :
      {
       "Linkedin" : "https://www.linkedin.com/in/gaboelc",
