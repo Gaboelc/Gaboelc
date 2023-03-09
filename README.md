@@ -7,7 +7,7 @@
       "Linkedin" : "https://www.linkedin.com/in/gaboelc",
       "Phone number" : (+506) 8630 3958,
       "Email" : "gabrielleon917@gmail.com",
-      "CV" : "https://drive.google.com/file/d/1RAHWhkXFLRAZShtoiPBztKG4-QxNeWvl/view?usp=sharing"
+      "CV" : "https://drive.google.com/file/d/1BSQe2wBzzvbTdaLboRu3ZrcUf-Dmqru9/view?usp=sharing"
      }
  }
 ```
