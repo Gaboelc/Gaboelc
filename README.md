@@ -21,14 +21,14 @@
 </h3> 
 <p>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python">
-
-  <img src="https://img.shields.io/badge/R%20language-black?style=for-the-badge&logo=R">
+ 
+  <img src="https://img.shields.io/badge/SnowFlake-black?style=for-the-badge&logo=SnowFlake">
 
   <img src="https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=Power%20BI">
+  
+  <img src="https://img.shields.io/badge/R%20language-black?style=for-the-badge&logo=R">
 
-  <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter">
-
-  <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git">
 </p>
   
 <h4>Programming Languages</h4>
